@@ -1,4 +1,4 @@
-### Hey!
+### WHATS UP!!!
 With a diverse blend of passions, my coding journey transcends tech. Born from curiosity about cars, fashion, and music, I craft innovative coding solutions. Beyond code, my fashion and music interests enhance my eye for design excellence, creating captivating and user-friendly software interfaces.
 <!--
 **JREV66/JREV66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
